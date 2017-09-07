@@ -1,7 +1,7 @@
 # -----------------------  Read data
 
 # set up library
-setwd("C:\\Ram\\R for Data Science\\data")
+setwd("C:\\YYYY\\AMMA 2017\\data")
 # read data
 prd_spend <-read.csv(file="prod_spend.csv",
                      head=T)
